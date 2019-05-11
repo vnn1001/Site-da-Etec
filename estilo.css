@@ -1,0 +1,31 @@
+h1, h2, h3, h4{
+
+  color: #FF0099;
+
+
+
+}
+
+.home li{
+ display: inline-block;
+ list-style: none;
+ 
+}
+
+.home {
+
+ text-align:center;
+ background-color:#0b6d8d;
+
+}
+
+.borda{
+ 
+  width: 80%;
+  margin: auto;
+}
+
+.home a{
+
+   color: white;
+}
