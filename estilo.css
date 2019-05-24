@@ -14,12 +14,13 @@ h1, h2, h3, h4{
 
 .home {
 
- text-align:center;
  background-color:#0b6d8d;
+ padding-top: 20px;
+ paddin-bottom: 20px;
 
 }
 
-.borda{
+.container {
  
   width: 80%;
   margin: auto;
@@ -28,4 +29,10 @@ h1, h2, h3, h4{
 .home a{
 
    color: white;
+}
+
+#qualquer {
+  margin:0;
+  padding:0;
+
 }
