@@ -1,38 +1,31 @@
-h1, h2, h3, h4{
-
-  color: #FF0099;
-
-
-
-}
 
 .home li{
- display: inline-block;
- list-style: none;
- 
+  display: inline-block;
+  list-style: none;
+  padding:13px 20px 13px 20px;
+  border-left: 1px solid #258FC1;
 }
 
 .home {
-
- background-color:#0b6d8d;
- padding-top: 20px;
- paddin-bottom: 20px;
-
+  background:#0b6d8d url("menubg-blue.png")repeat-x ;
 }
 
-.container {
- 
+.container { 
   width: 80%;
   margin: auto;
 }
 
 .home a{
-
-   color: white;
+  color:white;
+  text-decoration: none;
 }
 
-#qualquer {
+#lista {
   margin:0;
   padding:0;
 
+}
+.home li:hover{
+  
+  background-color: #0b506c;
 }
